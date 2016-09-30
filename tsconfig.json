@@ -4,7 +4,6 @@
         "module": "commonjs",
         "removeComments": true,
         "experimentalDecorators": true,
-        "noEmitHelpers": true,
         "declaration": true,
         "noLib": true
     },
@@ -14,7 +13,7 @@
       "node_modules/tns-platform-declarations/tns-core-modules/android17.d.ts",
       "node_modules/tns-platform-declarations/tns-core-modules/ios/ios.d.ts",
       "node_modules/tns-platform-declarations/tns-core-modules/org.nativescript.widgets.d.ts",
-      "content-providers.android.ts", 
+      "content-providers.android.ts"
     ],
     "compileOnSave": false
 }
